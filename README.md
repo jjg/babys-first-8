@@ -6,9 +6,9 @@ Analog sequencer + synthesizer disguised as a child's "busybox".
 
 ## About
 
-A few weeks ago I watched a documentary about the [Roland 808] and it got me interested in "analog" sequencers.  The machines fascinated me because they are actual analog/digital "chimeras", using digital logic to control analog signals.  I decided I wanted to build one of my own design and after a little bit of reading and some conversations with musicians who use them I figured out what I would need to put something together.
+A few weeks ago I watched a documentary about the [Roland TR-808](https://en.wikipedia.org/wiki/Roland_TR-808) and it got me interested in analog sequencers.  The machines fascinated me because they are actual analog/digital "chimeras", using digital logic to control analog signals.  I decided I wanted to build one of my own design and after a little bit of reading and some conversations with musicians who use them I figured out what I would need to put something together.
 
-Around the same time I noticed that these machines had a lot in common with another "maker project" I've considered; building a child's "busybox".  These are boxes covered in buttons, switches, lights and other mechanical bits designed to entertain children.  The controls on busyboxen I've seen serve no purpose (they are just fun to play with) but after noticing the simularity between these and analog sequencers/synthesizers I came up with the idea to combine them, and "Baby's First 8" was born.
+Around the same time I noticed that these machines had a lot in common with another "maker project" I've considered; building a child's ["busy board"](https://www.etsy.com/market/busy_board).  These are boards (or boxes) covered in buttons, switches, lights and other mechanical bits designed to entertain children.  The controls on busy boards I've seen serve no specific purpose (they are just fun to play with) but after noticing the simularity between these and analog sequencers/synthesizers I came up with the idea to combine them, and "Baby's First 8" was born.
 
 The idea is to create a childproof box of controls that is fun to play with, but is also a functioning sequencer + synthesizer.  Minimally this should be a slightly unusual busybox but it may also teach children how to compose electronic music as a side-effect.  
 
