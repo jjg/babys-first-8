@@ -2,6 +2,8 @@
 
 Analog sequencer + synthesizer disguised as a child's "busybox".
 
+![first draft render](images/rough_render.png)
+
 ## About
 
 A few weeks ago I watched a documentary about the [Roland 808] and it got me interested in "analog" sequencers.  The machines fascinated me because they are actual analog/digital "chimeras", using digital logic to control analog signals.  I decided I wanted to build one of my own design and after a little bit of reading and some conversations with musicians who use them I figured out what I would need to put something together.
