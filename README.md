@@ -1,6 +1,6 @@
 # Baby's First 8
 
-Analog sequencer + synthesizer disguised as a child's "busybox".
+Analog sequencer + synthesizer disguised as a child's "busy board".
 
 ![first draft render](images/rough_render.png)
 
