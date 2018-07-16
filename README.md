@@ -3,6 +3,7 @@
 Analog sequencer + synthesizer disguised as a child's "busy board".
 
 ![first draft render](images/rough_render.png)
+
 *Rough concept rendering showing sequencer step controls on top, speed/volume "ears" on the sides and synth parameter eyes + speaker mouth on the front face*
 
 ## About
