@@ -59,3 +59,11 @@ Or something slightly more sophisticated, but nothing too exotic/complex/etc.
 
 [^2]
 Perhaps something more modern/efficient like a PAM8302 could be used if a suitable part can be had.
+
+
+# References
+
+* http://www.midiwall.com/gear/babyseq/
+* https://hackaday.com/2016/01/14/oh-baby-baby10-build-a-classic-analog-music-sequencer/
+* https://hackaday.com/2015/09/17/the-ubiquitous-atari-punk-console/
+
